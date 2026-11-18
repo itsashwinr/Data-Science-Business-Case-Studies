@@ -1,4 +1,4 @@
-# AdEase – Wikipedia Page View Forecasting
+# AdEase – Forecasting
 
 ## Project Overview
 
